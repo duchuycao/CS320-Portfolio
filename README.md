@@ -11,6 +11,7 @@
 
 
 #Reflection
+
 **How can I ensure that my code, program, or software is functional and secure?**  
 To ensure that my code is functional, I employ unit testing strategies using JUnit to verify that each method behaves correctly under expected and edge-case conditions. For example, in the ContactService project, I used `assertThrows` to test invalid input scenarios and ensure exceptions were handled. To promote security, I adopt defensive programming habits like validating all inputs, rejecting null values, and enforcing constraints (e.g., length limits, data format).
 
