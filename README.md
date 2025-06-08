@@ -19,4 +19,4 @@ To ensure that my code is functional, I employ unit testing strategies using JUn
 I interpret user needs by analyzing software requirements and identifying how those translate into program behavior. In the Contact service, requirements like “each contact ID must be unique and non-editable” directly influenced my implementation logic and test conditions.
 
 **How do I approach designing software?**  
-My approach to software design begins with simplicity and modularity. I break down responsibilities into smaller, self-contained classes and methods. For example, I separated concerns across `Contact`, `ContactService`, and their respective test files. I also rely on iteration: I test early and often, refining the code and tests together.
+My approach to software design begins with simplicity and modularity. I break down responsibilities into smaller, self-contained classes and methods. For example, I separated concerns across Contact, ContactService, and their respective test files. I also rely on iteration: I test early and often, refining the code and tests together.
